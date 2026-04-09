@@ -1,0 +1,2 @@
+cd C:\xampp\htdocs\ukkparkir>mqtt>
+php mqtt_listener.php
